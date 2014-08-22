@@ -9,3 +9,8 @@ examples
 
 The misspelled word "squarts".
 
+
+note
+====
+
+Never underestimate my commitment to a joke repository.
